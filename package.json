@@ -13,8 +13,12 @@
   ],
   "author": "Pedro Pablo Montes <pmontesarroyave@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/PedroPab/ramdom-messages-montes.git"
+  },
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true
 }
